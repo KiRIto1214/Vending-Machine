@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2018.3 (64-bit)
+# SW Build 2405991 on Thu Dec  6 23:38:27 MST 2018
+# IP Build 2404404 on Fri Dec  7 01:43:56 MST 2018
+# Start of session at: Fri May  6 13:05:35 2022
+# Process ID: 7256
+# Current directory: C:/Users/NISHANT SHARMA/vending_machine/vending_machine.runs/impl_1
+# Command line: vivado.exe -log vending_modify.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source vending_modify.tcl -notrace
+# Log file: C:/Users/NISHANT SHARMA/vending_machine/vending_machine.runs/impl_1/vending_modify.vdi
+# Journal file: C:/Users/NISHANT SHARMA/vending_machine/vending_machine.runs/impl_1\vivado.jou
+#-----------------------------------------------------------
+source vending_modify.tcl -notrace
